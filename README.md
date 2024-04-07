@@ -1,4 +1,4 @@
-# did
+# did learning
 Learn about decentralized identity
 
  DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
